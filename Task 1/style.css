@@ -68,8 +68,11 @@ header .cta:hover{
   }
   
   .about-content .trainer-img {
-    width: 200px;
-    border-radius: 10px;
+    width:250px;
+    height: 250px;
+   
+    border-radius:10px;
+   
   }
   
   .programs-grid {
